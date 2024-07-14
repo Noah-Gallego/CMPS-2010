@@ -1,0 +1,9 @@
+---------------------------
+Lucas the Monster
+---------------------------
+TYPE: Spiky
+COLOR: Sea Green
+NO. OF EYES: 7
+NO. OF ARMS: 6
+NO. OF LEGS: 7
+---------------------------

@@ -1,0 +1,9 @@
+---------------------------
+Sawyer the Monster
+---------------------------
+TYPE: Furry
+COLOR: Macaroni and Cheese
+NO. OF EYES: 5
+NO. OF ARMS: 5
+NO. OF LEGS: 4
+---------------------------

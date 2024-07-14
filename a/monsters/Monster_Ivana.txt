@@ -1,0 +1,9 @@
+---------------------------
+Ivana the Monster
+---------------------------
+TYPE: Slimy
+COLOR: Gold
+NO. OF EYES: 6
+NO. OF ARMS: 4
+NO. OF LEGS: 6
+---------------------------

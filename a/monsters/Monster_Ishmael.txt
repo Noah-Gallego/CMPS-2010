@@ -1,0 +1,9 @@
+---------------------------
+Ishmael the Monster
+---------------------------
+TYPE: Gross
+COLOR: Electric Lime
+NO. OF EYES: 10
+NO. OF ARMS: 2
+NO. OF LEGS: 7
+---------------------------

@@ -1,0 +1,9 @@
+---------------------------
+Dolan the Monster
+---------------------------
+TYPE: Sticky
+COLOR: Blue Green
+NO. OF EYES: 7
+NO. OF ARMS: 4
+NO. OF LEGS: 2
+---------------------------

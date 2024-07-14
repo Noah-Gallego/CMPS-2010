@@ -1,0 +1,9 @@
+---------------------------
+Tashya the Monster
+---------------------------
+TYPE: Gross
+COLOR: Gray
+NO. OF EYES: 4
+NO. OF ARMS: 6
+NO. OF LEGS: 180
+---------------------------

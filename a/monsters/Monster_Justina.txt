@@ -1,0 +1,9 @@
+---------------------------
+Justina the Monster
+---------------------------
+TYPE: Squishy
+COLOR: Blue
+NO. OF EYES: 4
+NO. OF ARMS: 3
+NO. OF LEGS: 8
+---------------------------

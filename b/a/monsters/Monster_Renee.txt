@@ -1,0 +1,9 @@
+---------------------------
+Renee the Monster
+---------------------------
+TYPE: Slippery
+COLOR: Tumbleweed
+NO. OF EYES: 6
+NO. OF ARMS: 4
+NO. OF LEGS: 175
+---------------------------

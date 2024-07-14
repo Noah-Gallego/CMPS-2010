@@ -1,0 +1,9 @@
+---------------------------
+Akeem the Monster
+---------------------------
+TYPE: Tiny
+COLOR: Wild Blue Yonder
+NO. OF EYES: 9
+NO. OF ARMS: 5
+NO. OF LEGS: 4
+---------------------------

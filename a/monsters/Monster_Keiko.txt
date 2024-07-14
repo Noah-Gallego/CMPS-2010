@@ -1,0 +1,9 @@
+---------------------------
+Keiko the Monster
+---------------------------
+TYPE: Prickly
+COLOR: Razzmatazz
+NO. OF EYES: 9
+NO. OF ARMS: 4
+NO. OF LEGS: 5
+---------------------------

@@ -1,0 +1,9 @@
+---------------------------
+Tashya the Monster
+---------------------------
+TYPE: Spiky
+COLOR: Vivid Violet
+NO. OF EYES: 9
+NO. OF ARMS: 6
+NO. OF LEGS: 4
+---------------------------

@@ -1,0 +1,9 @@
+---------------------------
+Arthur the Monster
+---------------------------
+TYPE: Nasty
+COLOR: Shocking Pink
+NO. OF EYES: 8
+NO. OF ARMS: 2
+NO. OF LEGS: 4
+---------------------------

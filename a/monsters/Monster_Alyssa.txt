@@ -1,0 +1,9 @@
+---------------------------
+Alyssa the Monster
+---------------------------
+TYPE: Small
+COLOR: Jungle Green
+NO. OF EYES: 3
+NO. OF ARMS: 5
+NO. OF LEGS: 8
+---------------------------

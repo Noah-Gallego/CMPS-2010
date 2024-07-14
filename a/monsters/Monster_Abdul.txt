@@ -1,0 +1,9 @@
+---------------------------
+Abdul the Monster
+---------------------------
+TYPE: Mushy
+COLOR: Vivid Violet
+NO. OF EYES: 4
+NO. OF ARMS: 2
+NO. OF LEGS: 6
+---------------------------

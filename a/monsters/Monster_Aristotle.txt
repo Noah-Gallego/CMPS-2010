@@ -1,0 +1,9 @@
+---------------------------
+Aristotle the Monster
+---------------------------
+TYPE: Smooth
+COLOR: Macaroni and Cheese
+NO. OF EYES: 4
+NO. OF ARMS: 4
+NO. OF LEGS: 7
+---------------------------

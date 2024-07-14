@@ -1,0 +1,9 @@
+---------------------------
+Jane the Monster
+---------------------------
+TYPE: Furry
+COLOR: Unmellow Yellow
+NO. OF EYES: 9
+NO. OF ARMS: 8
+NO. OF LEGS: 31
+---------------------------

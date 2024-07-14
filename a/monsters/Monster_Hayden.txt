@@ -1,0 +1,9 @@
+---------------------------
+Hayden the Monster
+---------------------------
+TYPE: Slippery
+COLOR: Jungle Green
+NO. OF EYES: 8
+NO. OF ARMS: 5
+NO. OF LEGS: 4
+---------------------------

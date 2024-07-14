@@ -1,0 +1,9 @@
+---------------------------
+Madonna the Monster
+---------------------------
+TYPE: Furry
+COLOR: Vivid Violet
+NO. OF EYES: 6
+NO. OF ARMS: 2
+NO. OF LEGS: 6
+---------------------------

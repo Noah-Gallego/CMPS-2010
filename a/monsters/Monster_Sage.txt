@@ -1,0 +1,9 @@
+---------------------------
+Sage the Monster
+---------------------------
+TYPE: Squishy
+COLOR: Spring Green
+NO. OF EYES: 8
+NO. OF ARMS: 3
+NO. OF LEGS: 8
+---------------------------

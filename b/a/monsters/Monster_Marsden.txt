@@ -1,0 +1,9 @@
+---------------------------
+Marsden the Monster
+---------------------------
+TYPE: Dry
+COLOR: Violet Red
+NO. OF EYES: 9
+NO. OF ARMS: 2
+NO. OF LEGS: 232
+---------------------------

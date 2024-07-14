@@ -1,0 +1,9 @@
+---------------------------
+Rashad the Monster
+---------------------------
+TYPE: Nasty
+COLOR: Neon Carrot
+NO. OF EYES: 10
+NO. OF ARMS: 4
+NO. OF LEGS: 5
+---------------------------

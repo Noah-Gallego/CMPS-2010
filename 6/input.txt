@@ -1,0 +1,6 @@
+Successful compile, successful compile,
+After coding for days I can finally smile!
+I have finally won! I have beaten the odds,
+"But disaster awaits", warn the programming gods!
+It has all been a ruse, just one tragic deception,
+As my program cries out with a FatalException!

@@ -1,0 +1,9 @@
+---------------------------
+Vincent the Monster
+---------------------------
+TYPE: Thick
+COLOR: Timberwolf
+NO. OF EYES: 7
+NO. OF ARMS: 3
+NO. OF LEGS: 63
+---------------------------

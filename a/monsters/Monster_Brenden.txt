@@ -1,0 +1,9 @@
+---------------------------
+Brenden the Monster
+---------------------------
+TYPE: Round
+COLOR: Shamrock
+NO. OF EYES: 8
+NO. OF ARMS: 5
+NO. OF LEGS: 7
+---------------------------

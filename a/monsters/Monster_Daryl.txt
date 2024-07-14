@@ -1,0 +1,9 @@
+---------------------------
+Daryl the Monster
+---------------------------
+TYPE: Nasty
+COLOR: Melon
+NO. OF EYES: 7
+NO. OF ARMS: 3
+NO. OF LEGS: 5
+---------------------------

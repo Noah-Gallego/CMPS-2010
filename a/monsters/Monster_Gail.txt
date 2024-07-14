@@ -1,0 +1,9 @@
+---------------------------
+Gail the Monster
+---------------------------
+TYPE: Sticky
+COLOR: Neon Carrot
+NO. OF EYES: 3
+NO. OF ARMS: 3
+NO. OF LEGS: 2
+---------------------------

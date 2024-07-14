@@ -1,0 +1,9 @@
+---------------------------
+Hayden the Monster
+---------------------------
+TYPE: Nasty
+COLOR: Melon
+NO. OF EYES: 9
+NO. OF ARMS: 4
+NO. OF LEGS: 467
+---------------------------

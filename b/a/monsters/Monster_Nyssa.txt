@@ -1,0 +1,9 @@
+---------------------------
+Nyssa the Monster
+---------------------------
+TYPE: Squishy
+COLOR: Blush
+NO. OF EYES: 10
+NO. OF ARMS: 8
+NO. OF LEGS: 40
+---------------------------

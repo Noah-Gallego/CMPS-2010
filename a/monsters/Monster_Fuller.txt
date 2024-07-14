@@ -1,0 +1,9 @@
+---------------------------
+Fuller the Monster
+---------------------------
+TYPE: Stringy
+COLOR: Bittersweet
+NO. OF EYES: 2
+NO. OF ARMS: 3
+NO. OF LEGS: 5
+---------------------------

@@ -1,0 +1,9 @@
+---------------------------
+Ulla the Monster
+---------------------------
+TYPE: Soft
+COLOR: Denim
+NO. OF EYES: 5
+NO. OF ARMS: 4
+NO. OF LEGS: 6
+---------------------------

@@ -1,0 +1,9 @@
+---------------------------
+Meghan the Monster
+---------------------------
+TYPE: Wet
+COLOR: Antique Brass
+NO. OF EYES: 9
+NO. OF ARMS: 4
+NO. OF LEGS: 2
+---------------------------

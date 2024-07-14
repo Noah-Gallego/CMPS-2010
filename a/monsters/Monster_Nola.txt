@@ -1,0 +1,9 @@
+---------------------------
+Nola the Monster
+---------------------------
+TYPE: Gross
+COLOR: Red Orange
+NO. OF EYES: 6
+NO. OF ARMS: 3
+NO. OF LEGS: 4
+---------------------------

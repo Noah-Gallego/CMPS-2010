@@ -1,0 +1,9 @@
+---------------------------
+Edan the Monster
+---------------------------
+TYPE: Creepy
+COLOR: Antique Brass
+NO. OF EYES: 8
+NO. OF ARMS: 3
+NO. OF LEGS: 6
+---------------------------

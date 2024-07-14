@@ -1,0 +1,9 @@
+---------------------------
+Damian the Monster
+---------------------------
+TYPE: Thin
+COLOR: Macaroni and Cheese
+NO. OF EYES: 7
+NO. OF ARMS: 6
+NO. OF LEGS: 5
+---------------------------

@@ -1,0 +1,9 @@
+---------------------------
+Sara the Monster
+---------------------------
+TYPE: Tiny
+COLOR: Outrageous Orange
+NO. OF EYES: 6
+NO. OF ARMS: 4
+NO. OF LEGS: 2
+---------------------------

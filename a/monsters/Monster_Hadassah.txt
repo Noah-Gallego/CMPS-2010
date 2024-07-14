@@ -1,0 +1,9 @@
+---------------------------
+Hadassah the Monster
+---------------------------
+TYPE: Thick
+COLOR: Unmellow Yellow
+NO. OF EYES: 5
+NO. OF ARMS: 2
+NO. OF LEGS: 2
+---------------------------

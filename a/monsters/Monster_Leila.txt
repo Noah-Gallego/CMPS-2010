@@ -1,0 +1,9 @@
+---------------------------
+Leila the Monster
+---------------------------
+TYPE: Sticky
+COLOR: Melon
+NO. OF EYES: 3
+NO. OF ARMS: 3
+NO. OF LEGS: 8
+---------------------------

@@ -1,0 +1,9 @@
+---------------------------
+Hedley the Monster
+---------------------------
+TYPE: Prickly
+COLOR: Robin Egg Blue
+NO. OF EYES: 5
+NO. OF ARMS: 5
+NO. OF LEGS: 4
+---------------------------

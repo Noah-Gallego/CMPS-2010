@@ -1,0 +1,9 @@
+---------------------------
+Vincent the Monster
+---------------------------
+TYPE: Thick
+COLOR: Desert Sand
+NO. OF EYES: 6
+NO. OF ARMS: 3
+NO. OF LEGS: 2
+---------------------------

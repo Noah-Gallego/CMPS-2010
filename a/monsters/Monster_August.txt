@@ -1,0 +1,9 @@
+---------------------------
+August the Monster
+---------------------------
+TYPE: Wet
+COLOR: Orchid
+NO. OF EYES: 2
+NO. OF ARMS: 6
+NO. OF LEGS: 8
+---------------------------

@@ -1,0 +1,9 @@
+---------------------------
+Meghan the Monster
+---------------------------
+TYPE: Prickly
+COLOR: Sunglow
+NO. OF EYES: 8
+NO. OF ARMS: 6
+NO. OF LEGS: 153
+---------------------------
