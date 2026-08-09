@@ -2,13 +2,16 @@
 
 C++ laboratory, homework, midterm, and final-project materials organized into numbered course units.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C plus plus" />
+</p>
+
 ## Contents
 
 The top-level directories `1`, `2`, `4`, `5`, `6`, `7`, `8`, `a`, `b`, `c`, `d`, and `f` contain C++ source files and their associated inputs or data. The work includes guided labs, functions and control flow, file I/O, midterm exercises, classes, inheritance-style examples, and a restaurant data project.
 
 ## Tech stack
 
-- C++
 - Command-line compilation tools
 
 ## Usage
