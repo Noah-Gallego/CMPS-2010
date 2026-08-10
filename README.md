@@ -14,10 +14,6 @@ The top-level directories `1`, `2`, `4`, `5`, `6`, `7`, `8`, `a`, `b`, `c`, `d`,
 
 No standalone visual artifact is included; the repository is source-oriented archived coursework, so no preview image is claimed.
 
-## Tech stack
-
-- Command-line compilation tools
-
 ## Usage
 
 Select a unit and compile its `.cpp` source with a C++ compiler. Input files such as `input.txt`, `numbers.txt`, and `reviews.csv` are kept beside the exercises that use them.
