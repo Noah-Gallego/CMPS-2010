@@ -10,6 +10,10 @@ C++ laboratory, homework, midterm, and final-project materials organized into nu
 
 The top-level directories `1`, `2`, `4`, `5`, `6`, `7`, `8`, `a`, `b`, `c`, `d`, and `f` contain C++ source files and their associated inputs or data. The work includes guided labs, functions and control flow, file I/O, midterm exercises, classes, inheritance-style examples, and a restaurant data project.
 
+## Media
+
+No standalone visual artifact is included; the repository is source-oriented archived coursework, so no preview image is claimed.
+
 ## Tech stack
 
 - Command-line compilation tools
