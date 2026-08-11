@@ -21,3 +21,17 @@ Select a unit and compile its `.cpp` source with a C++ compiler. Input files suc
 ## Status
 
 This is archived coursework. Some directories contain compiled binaries and editor swap files; no root build system or automated test suite is included.
+
+> [!NOTE]
+> Treat the numbered and lettered directories as independent exercises: choose a unit, inspect its inputs, and compile its C++ source with a compatible compiler.
+
+## Structure
+
+The archive is organized by course unit rather than as one buildable application:
+
+```text
+course units (1, 2, 4–8, a–d, f)
+├── C++ source files
+├── exercise-specific input/data files
+└── occasional compiled or editor-generated artifacts
+```
